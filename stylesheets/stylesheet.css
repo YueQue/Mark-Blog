@@ -151,7 +151,7 @@ a.button span {
   height: 23px;
   padding-left: 50px;
 }
-
+/*
 #download-zip span {
   background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
 }
@@ -164,6 +164,7 @@ a.button span {
 #view-on-github {
   margin-right: 0;
 }
+*/
 
 code, pre {
   margin-bottom: 30px;
